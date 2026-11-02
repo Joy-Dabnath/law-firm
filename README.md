@@ -4,7 +4,7 @@ A clean, professional, and fully responsive website for a law firm.
 It is designed to build trust with visitors, explain legal services
 clearly, and make it easy to request a consultation.
 
-🔗 Live Demo: [আপনার লাইভ লিংক এখানে দিন]
+🔗 Live Demo: https://joy-dabnath.github.io/law-firm/
 
 ---
 
@@ -27,7 +27,7 @@ information, and a simple path to contact the firm.
 
 - HTML5
 - CSS3
-- [JavaScript, যদি ব্যবহার করে থাকেন]
+- [JavaScript
 
 ## 📁 Project Structure
 
@@ -48,7 +48,7 @@ law-firm/
 
 ## 📸 Preview
 
-![Law Firm Website Preview](assets/preview.png)
+https://joy-dabnath.github.io/law-firm/
 
 ## 📌 Note
 
